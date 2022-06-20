@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/bwamicro/api-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bwamicro/service-course" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bwamicro/service-media" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bwamicro/service-order-payment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bwamicro/service-user" vcs="Git" />
+  </component>
+</project>
